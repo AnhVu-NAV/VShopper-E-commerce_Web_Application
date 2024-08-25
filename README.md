@@ -33,7 +33,8 @@ To run the VShopper project locally, follow these steps:
    - Install **Apache Tomcat 9+**.
    - Install **MySQL** or **SQL Server**.
    - Install NetBeans 17 with JDK 17.
-   - Add the following libraries required: `jakarta.servlet.jsp.jstl-2.00.jar`, `jaxb-api-2.1.jar`, `sqljdbc42.jar`, `lombok-1.18.24.jar`. These libraries are included in the `Project_PRJ301_VShopper_VuNA\VShopper\web\lib` directory.
+   - Add the following libraries required: `jakarta.servlet.jsp.jstl-2.00.jar`, `jaxb-api-2.1.jar`, `sqljdbc42.jar`, `lombok-1.18.24.jar`.
+   - These libraries are included in the `Project_PRJ301_VShopper_VuNA\VShopper\web\lib` directory.
 
 2. **Configure the Database**:
 
